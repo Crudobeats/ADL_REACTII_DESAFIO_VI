@@ -1,0 +1,54 @@
+* {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container-navbar {
+  background-color: rgb(18, 58, 70);
+  height: 80px;
+  padding-top: 10px;
+}
+
+span {
+  font-size: 1.5rem;
+  padding-left: 30%;
+}
+
+.active {
+  color: white;
+}
+
+.noActive {
+  color: gray;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.title-title {
+  font-size: 2rem !important;
+  text-align: center;
+}
+
+.title-card {
+  font-size: 1.5rem;
+}
+.text-card {
+  text-align: center;
+}
+
+.main-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 60px;
+}
+
+.boton-ir {
+  background-color: cadetblue;
+  color: white;
+  font-size: 20px;
+}
